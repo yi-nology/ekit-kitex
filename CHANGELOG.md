@@ -2,6 +2,14 @@
 
 由 ekit v0.34.0（git.enjoye.top/enjoydream/ekit，冻结维护）拆分而来。所有 notable 变更记录如下。
 
+## [observability/tracing/instrumentation/kitexotel/v0.7.5] — 2026-11-02
+
+- 抬嵌套模块地板 github.com/oekit/logx/kitexlog v0.1.4 → v0.1.6（oekit/oekit#104）
+
+## [v0.7.5] — 2026-11-02
+
+- 抬嵌套模块地板 github.com/oekit/logx/kitexlog v0.1.4 → v0.1.6（oekit/oekit#104）
+
 ## [observability/tracing/instrumentation/kitexotel/v0.7.4] — 2026-11-02
 
 - build: 矩阵内依赖地板 `bootstrap` v0.6.6 → v0.6.7、`pkg` v0.31.0 → v0.31.1（维护轮全量对齐；本版不含 API 变更）
